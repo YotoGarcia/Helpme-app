@@ -23,8 +23,8 @@ spring:
     from: noreply@iudigital.edu.co
     host: smtp.gmail.com
     port: 587
-    username: jonathan.garciaab@est.iudigital.edu.co
-    password: jagb1102@
+    username: "correo"
+    password: "contraseña"
     properties:
       protocol: smtp
       auth: true
